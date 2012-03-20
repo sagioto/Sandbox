@@ -1,0 +1,18 @@
+2011-10-22 20:27:44,021 INFO main com.sagioto.sandbox.Main - getting number
+2011-10-22 20:28:08,543 INFO main com.sagioto.sandbox.Main - getting number
+2011-10-22 20:28:28,228 INFO main com.sagioto.sandbox.Main - getting number
+2011-10-22 20:28:28,228 DEBUG main com.sagioto.sandbox.Main - caclculate call with 465468
+2011-10-22 20:28:28,228 DEBUG main com.sagioto.sandbox.Main - caclculate call with 46546
+2011-10-22 20:28:28,228 DEBUG main com.sagioto.sandbox.Main - caclculate call with 4654
+2011-10-22 20:28:28,233 DEBUG main com.sagioto.sandbox.Main - caclculate call with 465
+2011-10-22 20:28:28,233 DEBUG main com.sagioto.sandbox.Main - caclculate call with 46
+2011-10-22 20:28:28,233 DEBUG main com.sagioto.sandbox.Main - caclculate call with 4
+2011-10-22 20:29:55,234 INFO main com.sagioto.sandbox.Main - getting number
+2011-10-22 20:30:01,564 INFO main com.sagioto.sandbox.Main - getting number
+2011-10-22 20:31:38,972 INFO main com.sagioto.sandbox.Main - getting number
+22 10 2011 20:32:32 INFO main com.sagioto.sandbox.Main - getting number
+22/10/2011 20:33:03 INFO main com.sagioto.sandbox.Main - getting number
+22/10/2011 20:33:36 INFO main com.sagioto.sandbox.Main - getting number
+22/10/2011 20:34:32 INFO main com.sagioto.sandbox.Main - calculating 48976
+22/10/2011 23:27:25 INFO main com.sagioto.sandbox.Main - getting number
+22/10/2011 23:27:32 INFO main com.sagioto.sandbox.Main - calculating 7987987
