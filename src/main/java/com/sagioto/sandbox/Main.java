@@ -13,9 +13,7 @@ public class Main {
      * @param args the arguments to the app
      */
     public static void main(String[] args) {
-    	System.out.println("Hello, git!" );
-    	System.out.println("commit from eclipse!" );
-    	System.out.println("okay, now try this" );
+    	System.out.println("commit from linux eclipse");
     }
 
 
