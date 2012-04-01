@@ -13,7 +13,7 @@ public class Main {
      * @param args the arguments to the app
      */
     public static void main(String[] args) {
-    	System.out.println("liad the man!!!");
+    	System.out.println("hello gali");
     }
 
 
